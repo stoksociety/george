@@ -1,1 +1,1 @@
-alert("welcome to the akan'ss");
+alert("welcome to the akan's");
