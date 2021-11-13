@@ -1,0 +1,19 @@
+.ghananian{
+    background-color: rgb(26, 126, 192);
+    flex: 15px;
+    font-family: fantasy;
+    border:mediumspringgreen;
+}
+.males{
+    text-decoration-color: deepskyblue;
+    background-color: rgb(29, 214, 112);
+}
+.female{
+    background-color: rgb(51, 36, 138);
+    font-family: serif;
+}
+.days{
+  
+    border:.5rem solid black;
+    padding: .3rem;
+}
