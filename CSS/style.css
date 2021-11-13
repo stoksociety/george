@@ -17,3 +17,8 @@
     border:.5rem solid black;
     padding: .3rem;
 }
+.baby{
+    float: none;
+    align-items: center;
+    background-color: chocolate;
+}
