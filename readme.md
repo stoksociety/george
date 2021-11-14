@@ -13,9 +13,12 @@
 https://stoksociety.github.io/george/
 ## Known Bugs :[the app can input incorrect data but it will automatically recorrect itself]
 ## languages Used in writing the application
-HTML
-CSS
-JAVASCRIPT
+HTML.
+
+CSS.
+
+JAVASCRIPT.
+
 ## Support and contact details
 stoksociety04@gmail.com
 ### License
