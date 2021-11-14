@@ -19,6 +19,6 @@ JAVASCRIPT
 ## Support and contact details
 runda.zimmerman@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Determine the license under which this application can be used. 
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} **{elite.inc.}**
