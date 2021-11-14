@@ -8,10 +8,11 @@
     <title>Document</title>
     <link rel="stylesheet" href="./CSS/style.css">
     <script src="./js/script.js"></script>
+    <script src="./js/test.js"></script>
 </head>
 
 <body>
-    <div class="ghananian">
+    <div class="body">
         <div class="description">
             <h1>the akan's</h1>
             <p>Akan names are derived from Ghanian culture.
@@ -20,41 +21,64 @@
         </div>
 
         <h1>male and female names</h1>
-       
-               <div class ="males">
-           <p class="males">
 
-            (((males)))
-            Sunday: Kwasi,,Monday: Kwadwo,,Tuesday: Kwabena,,Wednesday: Kwaku,,Thursday:Yaw ,,Friday: Kofi,,Saturday:
-            Kwame.
+        <div class="males">
+            <p class="males">
 
-         </p>
+                (((males)))
+                Sunday: Kwasi,,Monday: Kwadwo,,Tuesday: Kwabena,,Wednesday: Kwaku,,Thursday:Yaw ,,Friday:
+                Kofi,,Saturday:
+                Kwame.
+
+            </p>
         </div>
-         <div class="female">
+        <div class="female">
             <P class="females">
-        
-            ///females///
-            Sunday: Akosua,,Monday: Adwoa,,Tuesday: Abenaa,,Wednesday: Akua,,Thursday: Yaa,, Friday: Afua,,Saturday:
-            Ama.
 
-           </P>
+                ///females///
+                Sunday: Akosua,,Monday: Adwoa,,Tuesday: Abenaa,,Wednesday: Akua,,Thursday: Yaa,, Friday: Afua,,Saturday:
+                Ama.
+
+            </P>
         </div>
     </div>
     <div>
-        <h2>input your data here</h2>
 
-         <div class="baby">
-        <img src="https://image.shutterstock.com/image-photo/beautiful-african-newborn-260nw-94584649.jpg" alt="babies">
+        <div class="title">
+            <h2>input your data here</h2>
         </div>
-        
-        <div class="days">
-         <div>
-            <div><input type="text" id="day" class="arnold" placeholder="day"></div>
-            <div><input type="text" id="month" class="kagunda" placeholder="month"></div>
-            <div><input type="text" id="year" class="wanjohi" placeholder="year"></div>
-            <button>check your akan name</button>
-         </div>
+
+        <div class="baby">
+            <img src="https://images.unsplash.com/photo-1547291209-66df014937ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                alt="cars">
         </div>
+        <form>
+
+            <div class="days">
+                <div>
+                    <div><input type="text" id="day" class="" placeholder="day"></div>
+                    <P id="dayerror"></P>
+                    <div><input type="text" id="month" class="" placeholder="month"></div>
+                    <p id="montherror"></p>
+                    <div><input type="text" id="year" class="" placeholder="year"></div>
+                    <p id="yearerror"></p>
+
+                    <h3> choose your gender</h3>
+                    <div><label for="male">male:</label></div>
+                    <div><input id="radiomale" value = "male" name="gender" type="radio" value="male"></div>
+
+                    <div><label for="female">female:</label></div>
+                    <div><input id="radiofemale" value = "female" name="gender" type="radio" value="female"></div>
+                    <button type="button" class="btn-btn" onclick = "ghana()"> get your Akan name </button>
+
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+
+    </div>
     </div>
     </div>
 </body>

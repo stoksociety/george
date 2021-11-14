@@ -1,0 +1,24 @@
+# the Akan's
+#### {this application is about the famous  akan's from ghana who name their children }, {2021}
+#### By the elite.inc.
+## Description : this web app is very intresting since it allows the user to input his/her birthday and get their birthday names according to the akan naming system
+## Setup/Installation Requirements
+* Clone the repo {}
+* download the app from the website
+* extract the files after installation
+* open the app and accept the rights and policy
+* enjoy the application
+
+## Live link
+
+## Known Bugs :with bugs our application doesn't have any bugs
+## Technologies Used
+HTML
+CSS
+JAVASCRIPT
+## Support and contact details
+runda.zimmerman@gmail.com
+### License
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+This is under the [MIT](LICENSE) license
+Copyright (c) {2021} **{elite.inc.}**

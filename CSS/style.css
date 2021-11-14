@@ -1,13 +1,12 @@
-.ghananian{
-    background-color: rgb(26, 126, 192);
-    flex: 15px;
-    font-family: fantasy;
-    border:mediumspringgreen;
+.body{
+    background-image: url(https://image.shutterstock.com/image-photo/beautiful-african-newborn-260nw-94584649.jpg);
 }
+
 .males{
     text-decoration-color: deepskyblue;
     background-color: rgb(29, 214, 112);
 }
+
 .female{
     background-color: rgb(51, 36, 138);
     font-family: serif;
@@ -16,9 +15,17 @@
   
     border:.5rem solid black;
     padding: .3rem;
+    background-image: url(https://images.unsplash.com/photo-1501791187590-9ef2612ba1eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
 }
 .baby{
     float: none;
     align-items: center;
-    background-color: chocolate;
+    background-image:url(https://unsplash.com/direct-ads-videos/movefaster-v-cta.mp4);
+    background-color: black;
+}
+.title{
+    background-color: darkslategrey;
+    stroke: rgb(51, 36, 138);
+    flex: 5px black;
+    box-shadow: snow;
 }
