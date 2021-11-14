@@ -3,7 +3,7 @@
 ####  made by the elite.inc.
 ## Description : this web app is very intresting since it allows the user to input his/her birthday and get their birthday names according to the akan naming system
 ## Setup/Installation Requirements
-* Clone the repo {https://github.com/stoksociety/george.git}.
+*  follow the link below https://github.com/stoksociety/george.git
 * download the app from the website
 * extract the files after installation
 * open the app and accept the rights and policy
