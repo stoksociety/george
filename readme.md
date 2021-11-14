@@ -10,7 +10,7 @@
 * enjoy the application
 
 ## Live link
-
+https://stoksociety.github.io/george/
 ## Known Bugs :with bugs our application doesn't have any bugs
 ## Technologies Used
 HTML
