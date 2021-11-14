@@ -11,7 +11,7 @@
 
 ## Live link
 https://stoksociety.github.io/george/
-## Known Bugs :with bugs our application doesn't have any bugs
+## Known Bugs :[with bugs our application doesn't have any bugs]
 ## Technologies Used
 HTML
 CSS
