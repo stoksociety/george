@@ -1,6 +1,6 @@
 # the Akan's
 #### [this application is about the famous  akan's from ghana who name their children] , {2021}
-#### By the elite.inc.
+####  made by the elite.inc.
 ## Description : this web app is very intresting since it allows the user to input his/her birthday and get their birthday names according to the akan naming system
 ## Setup/Installation Requirements
 * Clone the repo {https://github.com/stoksociety/george.git}
