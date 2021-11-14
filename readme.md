@@ -11,8 +11,11 @@
 
 ## Live link
 https://stoksociety.github.io/george/
+
 ## Known Bugs :[the app can input incorrect data but it will automatically recorrect itself]
+
 ## languages Used in writing the application
+
 HTML.
 
 CSS.
