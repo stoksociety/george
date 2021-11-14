@@ -24,6 +24,7 @@ JAVASCRIPT.
 
 ## Support and contact details
 stoksociety04@gmail.com
+
 ### License
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} **{elite.inc.}**
