@@ -24,6 +24,7 @@ JAVASCRIPT.
 
 ## Support and contact details
 stoksociety04@gmail.com
+or call(+254782889435)
 
 ### License
 This is under the [MIT](LICENSE) license
