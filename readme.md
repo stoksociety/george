@@ -11,7 +11,7 @@
 
 ## Live link
 https://stoksociety.github.io/george/
-## Known Bugs :[with bugs our application doesn't have any bugs]
+## Known Bugs :[the app can input incorrect data but it will automatically recorrect itself]
 ## Technologies Used
 HTML
 CSS
