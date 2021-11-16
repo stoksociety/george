@@ -15,12 +15,9 @@
     <div class="body">
         <div class="description">
             <h1>the akan's</h1>
-            <p>Akan names are derived from Ghanian culture.
-                Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in
-                the week they were born.</p>
+            <p>Akan names are derived from Ghanian culture Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.</p>
         </div>
-
-        <h1>male and female names</h1>
+          <h1>male and female names</h1>
 
         <div class="males">
             <p class="males">
@@ -28,9 +25,7 @@
                 (((males)))
                 Sunday: Kwasi,,Monday: Kwadwo,,Tuesday: Kwabena,,Wednesday: Kwaku,,Thursday:Yaw ,,Friday:
                 Kofi,,Saturday:
-                Kwame.
-
-            </p>
+                Kwame.  </p>
         </div>
         <div class="female">
             <P class="females">
@@ -42,6 +37,7 @@
             </P>
         </div>
     </div>
+
     <div>
 
         <div class="title">
@@ -52,24 +48,26 @@
             <img src="https://images.unsplash.com/photo-1547291209-66df014937ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                 alt="cars">
         </div>
-        <form>
+        <form action="" clas="my-form" id="form">
 
             <div class="days">
                 <div>
-                    <div><input type="text" id="day" class="" placeholder="day"></div>
+                    <div><input type="number" id="day" class="" placeholder="DAY"></div>
                     <P id="dayerror"></P>
-                    <div><input type="text" id="month" class="" placeholder="month"></div>
+                    <div><input type="number" id="month" class="" placeholder="MONTH"></div>
                     <p id="montherror"></p>
-                    <div><input type="text" id="year" class="" placeholder="year"></div>
+                    <div><input type="number" id="year" class="" placeholder="YEAR"></div>
                     <p id="yearerror"></p>
 
                     <h3> choose your gender</h3>
-                    <div><label for="male">male:</label></div>
-                    <div><input id="radiomale" value = "male" name="gender" type="radio" value="male"></div>
+                    <label for="male">male</label>
+                    <input type="radio" id="male"  name="gender" >
 
-                    <div><label for="female">female:</label></div>
-                    <div><input id="radiofemale" value = "female" name="gender" type="radio" value="female"></div>
-                    <button type="button" class="btn-btn" onclick = "ghana()"> get your Akan name </button>
+                    <label for="female">female</label>
+                    <input type="radio" id = "female" name="gender" >
+
+                    <button type="reset" value="reset" class+"sub">reset</button>
+                    <button type="submit" onclick = "ghana()" class="sub"> get your Akan name </button>
 
                 </div>
             </div>
