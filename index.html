@@ -11,45 +11,72 @@
 </head>
 
 <body>
-    <div class="ghananian">
+    <div class="body">
         <div class="description">
             <h1>the akan's</h1>
-            <p>Akan names are derived from Ghanian culture.
-                Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in
-                the week they were born.</p>
+            <p>Akan names are derived from Ghanian culture Frequently in Ghana, children are given their first name as a
+                'day name' which corresponds to the day in the week they were born.</p>
         </div>
-
         <h1>male and female names</h1>
 
-        <div class ="males">
-           <p class="males">
+        <div class="males">
+            <p class="males">
 
-            (((males)))
-            Sunday: Kwasi,,Monday: Kwadwo,,Tuesday: Kwabena,,Wednesday: Kwaku,,Thursday:Yaw ,,Friday: Kofi,,Saturday:
-            Kwame.
-
-         </p>
+                (((males)))
+                Sunday: Kwasi,,Monday: Kwadwo,,Tuesday: Kwabena,,Wednesday: Kwaku,,Thursday:Yaw ,,Friday:
+                Kofi,,Saturday:
+                Kwame. </p>
         </div>
-         <div class="female">
+        <div class="female">
             <P class="females">
-        
-            ///females///
-            Sunday: Akosua,,Monday: Adwoa,,Tuesday: Abenaa,,Wednesday: Akua,,Thursday: Yaa,, Friday: Afua,,Saturday:
-            Ama.
 
-           </P>
+                ///females///
+                Sunday: Akosua,,Monday: Adwoa,,Tuesday: Abenaa,,Wednesday: Akua,,Thursday: Yaa,, Friday: Afua,,Saturday:
+                Ama.
+
+            </P>
         </div>
     </div>
+
     <div>
-        <h2>input your data here</h2>
-        <div class="days">
-         <div>
-            <div><input type="text" id="day" class="arnold" placeholder="day"></div>
-            <div><input type="text" id="month" class="kagunda" placeholder="month"></div>
-            <div><input type="text" id="year" class="wanjohi" placeholder="year"></div>
-            <button>check your akan name</button>
-         </div>
+
+        <div class="title">
+            <h2>input your data here</h2>
         </div>
+
+        <div class="baby">
+            <img src="https://images.unsplash.com/photo-1547291209-66df014937ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                alt="cars">
+        </div>
+        <form action="" class="my-form" id="form">
+
+            <div class="days">
+                <div>
+                    <div><input type="number" id="day" class="" placeholder="DAY"></div>
+                    <P id="dayerror"></P>
+                    <div><input type="number" id="month" class="" placeholder="MONTH"></div>
+                    <p id="montherror"></p>
+                    <div><input type="number" id="year" class="" placeholder="YEAR"></div>
+                    <p id="yearerror"></p>
+
+                    <h3> choose your gender</h3>
+                    <label for="male">male</label>
+                    <input type="radio" id="radiomale" name="gender">
+
+                    <label for="female">female</label>
+                    <input type="radio" id="radiofemale" name="gender">
+
+
+                    <button type="submit" value="Generate" onclick = "ghana()" class="sub"> get your Akan name </button>
+
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+
+    </div>
     </div>
     </div>
 </body>
